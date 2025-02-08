@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, Me llamo Agustin Gomez Tabletti</h1>
-<h3 align="center">Soy un Informático apasionado</h3>
+<h1 align="center">Hi 👋, my name is Agustin Gomez Tabletti</h1>
+<h3 align="center">I am a passionate computer scientist</h3>
 
-- 💬 Ask me about **Soporte tecnico, python, diseño CAD.**
+- 💬 Ask me about **Technical Support, python, design CAD.**
 
 - 📫 How to reach me **agustintabletti.work@gmail.com**
 
